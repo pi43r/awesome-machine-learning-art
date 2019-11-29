@@ -34,7 +34,6 @@
 - [Sofia Crespo](https://twitter.com/soficrespo91) - An artists who is playing around botany, microscopy, and neural networks.
 - [Anna Ridler](https://twitter.com/annaridler) - An artists who specilizes in machine learning and drawing.
 - [Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) - The creator of The Wekinator (an interacitve machine learning tool).
-- [Sofia Crespo](https://twitter.com/soficrespo91) - An artist based in Berlin. Her works are around microscopy, memetics, botany, and neural nets.
 
 
 
